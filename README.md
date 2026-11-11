@@ -1,4 +1,5 @@
-#CMPINF 0010 SEC1010 Final Project "The Best Neighborhood in Pittsburgh"
+# CMPINF 0010 SEC1010 Final Project "The Best Neighborhood in Pittsburgh"
+
 Team Name: LAY'S
 Member Names & Email Addresses: Avery Bird (AGB212@pitt.edu), Yuki Rai (YUR31@pitt.edu), Lilya Yakovlev (LYY7@pitt.edu)
 
