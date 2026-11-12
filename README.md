@@ -1,7 +1,7 @@
 # CMPINF 0010 SEC1010 Final Project: "The Best Neighborhood in Pittsburgh"
 <hr>
 Team name: LAY'S <br>
-Team members: Avery Bird [ADD EMAIL], Yuki Rai [ADD EMAIL], Lilya Yakovlev (LYY7@pitt.edu)
+Team members: Avery Bird [ADD EMAIL], Yuki Rai [ADD EMAIL], Lilya Yakovlev (LYY7@pitt.edu) <br>
 
 Datasets sourced from Western PA Regional Data Center and City of Pittsburgh GIS Data HUB are used to analyze the quality of Pittsburgh neighborhoods in a subjective manner.
 By submetrics of air quality, public transport stops, and general safety, [INSERT NEIGHBORHOOD] has been determined to be the "best" neighborhood in Pittsburgh City proper.
