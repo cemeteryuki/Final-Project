@@ -3,7 +3,7 @@
 Team name: FLAY'S <br>
 Team members: Avery Bird (AGB212@pitt.edu), Yuki Rai (YUR31@pitt.edu), Finn Snyder (FIS14@pitt.edu), Lilya Yakovlev (LYY7@pitt.edu) <br><br>
 
-Datasets sourced from Western PA Regional Data Center and City of Pittsburgh GIS Data HUB are used to analyze the quality of Pittsburgh neighborhoods in a subjective manner.
+Datasets sourced from Western PA Regional Data Center and City of Pittsburgh GIS Data HUB are used to analyze the quality of Pittsburgh neighborhoods in a subjective manner. <br>
 By submetrics of air quality, public transport stops, and general safety, <b> Manchester </b> has been determined to be the "best" neighborhood in Pittsburgh City proper. It scores high for air quality, with a score of -1.63 air quality points above the city average, is very safe, and sits comfortably as the neighborhood with the 18th-highest extrapolated PRT stop density (93 stops per square mile). While it was not #1 in any category, it definitely stood out enough to make it a solid choice.
 
 Information source links: <br>
