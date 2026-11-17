@@ -1,6 +1,6 @@
 # CMPINF 0010 SEC1010 Final Project: "The Best Neighborhood in Pittsburgh"
 <hr>
-Team name: FLAY'S <br>
+Team name: LAY'S <br>
 Team members: Avery Bird (AGB212@pitt.edu), Yuki Rai (YUR31@pitt.edu), Lilya Yakovlev (LYY7@pitt.edu) <br><br>
 
 Datasets sourced from Western PA Regional Data Center and City of Pittsburgh GIS Data HUB are used to analyze the quality of Pittsburgh neighborhoods in a subjective manner. <br>
