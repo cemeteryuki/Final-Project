@@ -1,0 +1,16 @@
+site,latitude,longitude,aqs_id,address,municipality_per_plan,source_note
+Lawrenceville,40.465420,-79.960757,42-003-0008,"301 39th Street, Building 7",Pittsburgh,ACHD 2018 Annual Network Plan
+Lawrenceville 2,40.465420,-79.960757,42-003-0008,"301 39th Street, Building 7",Pittsburgh,ASSUMED same location as Lawrenceville - verify
+Flag Plaza,40.443367,-79.990293,42-003-0031,"1275 Bedford Avenue",Pittsburgh,ACHD 2018 Annual Network Plan
+Pittsburgh,40.456427,-80.026740,42-003-0092,"1612 Manhattan Street (Manchester)",Pittsburgh,ASSUMED to be the Manchester site - verify
+Parkway East,40.437430,-79.863572,42-003-1376,"400 Sherwood Road",Pittsburgh (press release says Wilkinsburg),ACHD 2018 Annual Network Plan
+Lincoln,40.308219,-79.869134,42-003-7004,"Bellbridge Road",Elizabeth,ACHD 2018 Annual Network Plan
+Avalon,40.499767,-80.071337,42-003-0002,"520 Orchard Ave.",Avalon,ACHD 2018 Annual Network Plan
+Liberty,40.323768,-79.868062,42-003-0064,"2743 Washington Blvd",McKeesport,ACHD 2018 Annual Network Plan
+Liberty 2,40.323768,-79.868062,42-003-0064,"2743 Washington Blvd",McKeesport,ASSUMED same location as Liberty - verify
+Liberty Trailer,40.323768,-79.868062,42-003-0064,"2743 Washington Blvd",McKeesport,ASSUMED same location as Liberty - verify
+North Braddock,40.402328,-79.860973,42-003-1301,"600 Anderson Street",Braddock,ACHD 2018 Annual Network Plan
+Clairton,40.294341,-79.885331,42-003-3007,"501 Waddel St.",Clairton,ACHD 2018 Annual Network Plan
+Harrison Township,40.617488,-79.727664,42-003-1008,"1500 Pacific Avenue",Natrona Heights,ACHD 2018 Annual Network Plan
+South Fayette,40.375644,-80.169943,42-003-0067,"3640 Old Oakdale Road",McDonald,ACHD 2018 Annual Network Plan
+Glassport High Street,40.326008,-79.881703,42-003-3006,"Water Tower on High Street",Glassport,ACHD 2018 Annual Network Plan
